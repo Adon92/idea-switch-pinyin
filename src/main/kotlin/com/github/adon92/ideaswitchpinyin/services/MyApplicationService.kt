@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.adon92.ideaswitchpinyin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.adon92.ideaswitchpinyin.MyBundle
 
 class MyApplicationService {
 

@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.adon92.ideaswitchpinyin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

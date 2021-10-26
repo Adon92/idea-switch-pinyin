@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.adon92.ideaswitchpinyin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.adon92.ideaswitchpinyin.MyBundle
 
 class MyProjectService(project: Project) {
 
