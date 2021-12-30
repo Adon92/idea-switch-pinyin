@@ -11,11 +11,9 @@
 - [ ] Linux
 
 <!-- Plugin description -->
-This Fancy IntelliJ Platform Plugin is going to be your implementation of the brilliant ideas that you have.
+Help developers who need pinyin input to automatically switch input method according to context judgment when writing code, improve coding efficiency
 
-This specific section is a source for the [plugin.xml](/src/main/resources/META-INF/plugin.xml) file which will be extracted by the [Gradle](/build.gradle.kts) during the build process.
-
-To keep everything working, do not remove `<!-- ... -->` sections.
+帮助需要中午拼音输入的开发者在写代码时根据上下文判断自动切换输入法，提高编码效率
 <!-- Plugin description end -->
 
 ## Installation
