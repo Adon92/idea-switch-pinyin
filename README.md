@@ -13,7 +13,7 @@
 <!-- Plugin description -->
 Help developers who need pinyin input to automatically switch input method according to context judgment when writing code, improve coding efficiency
 
-帮助需要中午拼音输入的开发者在写代码时根据上下文判断自动切换输入法，提高编码效率
+帮助需要拼音输入的开发者在写代码时根据上下文判断自动切换输入法，提高编码效率
 <!-- Plugin description end -->
 
 ## Installation
