@@ -2,12 +2,11 @@
 <idea-plugin>
     <id>com.github.adon92.ideaswitchpinyin</id>
     <name>idea-switch-pinyin</name>
-    <vendor>adon92</vendor>
+    <vendor url="https://github.com/Adon92/idea-switch-pinyin">adon92</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.github.adon92.ideaswitchpinyin.services.MyApplicationService"/>
         <projectService serviceImplementation="com.github.adon92.ideaswitchpinyin.services.MyProjectService"/>
     </extensions>
 
